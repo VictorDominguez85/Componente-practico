@@ -1,0 +1,2 @@
+# Componente-practico
+Fase_4_componente_practico_y_simulada
